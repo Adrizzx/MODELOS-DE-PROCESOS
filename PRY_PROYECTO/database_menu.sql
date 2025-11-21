@@ -1,3 +1,4 @@
+
 -- =============================================
 -- Base de Datos: crud_proyecto
 -- Sistema de Restaurante - Le Salon de Lumière
